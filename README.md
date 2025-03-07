@@ -1,8 +1,10 @@
+# React FAQ Accordion 📜
 
-### **How to Use This?**
-1. Save the content as `README.md` in your project's root directory.
-2. Push the file to your GitHub repository:
-   ```sh
-   git add README.md
-   git commit -m "Added README"
-   git push origin main
+A simple FAQ (Frequently Asked Questions) accordion built using **React** and **CSS**.
+
+## 🚀 Features
+- Expand/collapse FAQ items by clicking the question.
+- Dynamic list of questions and answers.
+- Clean and responsive design.
+
+## 📂 Folder Structure
