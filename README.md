@@ -7,4 +7,4 @@ A simple FAQ (Frequently Asked Questions) accordion built using **React** and **
 - Dynamic list of questions and answers.
 - Clean and responsive design.
 
-## 📂 Folder Structure
+
